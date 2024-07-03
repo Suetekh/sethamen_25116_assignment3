@@ -13,8 +13,11 @@
 - **Battery Threshold Notification:** Notifies when battery charge reaches a threshold (e.g., 90%) while charging.
 
 - ![image](https://github.com/Suetekh/sethamen_25116_assignment3/assets/90240831/8921c7db-5890-4b01-b1f5-f2ce2d6a5d8b)
+![image](https://github.com/Suetekh/sethamen_25116_assignment3/assets/90240831/d8e976f7-ad08-40db-8b4c-087ad3eef6af)
 
 - **Light and Dark Mode:** Toggle between light and dark themes using Shared Preferences.
+- ![image](https://github.com/Suetekh/sethamen_25116_assignment3/assets/90240831/84c53edf-1f68-4b90-9c9b-32dacd205454)
+
 
 - 
 - **Authentication:** Includes email/password, Google Sign-In, and Facebook Sign-In.
